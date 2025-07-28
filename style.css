@@ -1,4 +1,17 @@
 body {
 	background-color: #180e33;
 	color: white;
+
+	{
+  background-color:white;
+}
+#animepara{
+  text-align:center;
+  font-family:"Corbel";
+  font-weight:bold;
+  font-size:68px;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+  color:white;
+  transition: text-shadow 0.7s ease-in-out;
 }
